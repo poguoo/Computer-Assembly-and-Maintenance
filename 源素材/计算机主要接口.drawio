@@ -1,0 +1,156 @@
+<mxfile host="Electron" modified="2023-11-15T10:10:42.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="_-au9qXIGFi-D-a4uM6H" version="22.0.3" type="device">
+  <diagram name="第 1 页" id="zGCqP_yx0sx3U29eoPdF">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="92K3urHDepijK37gljLw-14" value="计算机主要接口" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry width="600" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="30" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-16" value="显示" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;container=1;rowspan=7;colspan=1;" parent="92K3urHDepijK37gljLw-15" vertex="1" collapsed="1">
+          <mxGeometry width="28" height="280" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-17" value="D-SUB(VGA)：模拟信号，D形3排15针" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-15" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="70" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="92K3urHDepijK37gljLw-19" vertex="1" visible="0">
+          <mxGeometry width="28" height="40" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-21" value="DVI：数字视频接口，DVI-A、DVI-I、DVI-D三种" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-19" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="110" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="92K3urHDepijK37gljLw-23" vertex="1" visible="0">
+          <mxGeometry width="28" height="40" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-25" value="HDMI：高清晰度多媒体数字接口，音视频传输" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-23" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-43" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="150" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="92K3urHDepijK37gljLw-43" vertex="1" visible="0">
+          <mxGeometry width="28" height="40" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-45" value="DP：DisplayPort，高清数字显示接口" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-43" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-49" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="190" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="92K3urHDepijK37gljLw-49" vertex="1" visible="0">
+          <mxGeometry width="28" height="40" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-51" value="AV：复合视频接口，黄、白、红。黄视频，白红左右音频" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-49" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-46" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="230" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-47" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="92K3urHDepijK37gljLw-46" vertex="1" visible="0">
+          <mxGeometry width="28" height="40" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-48" value="S-Video：S端子，二分量视频接口，4针、7针" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-46" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-52" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="270" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-53" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="92K3urHDepijK37gljLw-52" vertex="1" visible="0">
+          <mxGeometry width="28" height="40" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-54" value="分量端口：模拟视频。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-52" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="310" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-28" value="音频" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=2;colspan=1;" parent="92K3urHDepijK37gljLw-27" vertex="1">
+          <mxGeometry width="28" height="80" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-29" value="Audio：绿耳红麦蓝输入" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-27" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-55" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="350" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-56" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="92K3urHDepijK37gljLw-55" vertex="1" visible="0">
+          <mxGeometry width="28" height="40" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-57" value="S/PDIF：数字传输端口，光纤、同轴" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-55" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-31" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="390" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-32" value="传输" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;rowspan=2;colspan=1;" parent="92K3urHDepijK37gljLw-31" vertex="1">
+          <mxGeometry width="28" height="80" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-33" value="USB：通用串行总线，5V/12V/20V供电，热插拔，1.0_1.5Mb/s，1.1_12Mb/s，2.0_480Mb/s,3.0_5Gb/s" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-31" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-35" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="92K3urHDepijK37gljLw-14" vertex="1">
+          <mxGeometry y="430" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="92K3urHDepijK37gljLw-35" vertex="1" visible="0">
+          <mxGeometry width="28" height="40" as="geometry">
+            <mxRectangle width="28" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92K3urHDepijK37gljLw-37" value="雷电：Thunderbolt，2代采用MiniDisplay外形，双向10Gb/s，也可传音视频。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" parent="92K3urHDepijK37gljLw-35" vertex="1">
+          <mxGeometry x="28" width="572" height="40" as="geometry">
+            <mxRectangle width="572" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
